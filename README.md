@@ -9,4 +9,4 @@ Case Sensitivity Options: Choose between case-sensitive and case-insensitive sea
 
 Multi-Poem Support: Search through multiple poems at once, making it easy to find references across different works.
 
-User-Friendly: Simple command-line interface that makes it easy to get started without needing extensive technical knowledge.
+User-Friendly: Simple command-line interface that makes it easy to get started without needing extensive technical knowledge.# cli_tool
